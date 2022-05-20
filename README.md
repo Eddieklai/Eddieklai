@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Klai Eddie</h1>
-<h3 align="center">A passionate frontend developer fro</h3>
+<h3 align="center">A passionate developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eddieklai&label=Profile%20views&color=006d8f&style=flat-square" alt="eddieklai" /> </p>
 
