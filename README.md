@@ -23,8 +23,7 @@
 
 # 💻 what i want to learn :
 
-![React](https://img.shields.io/static/v1?style=for-the
-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
+![React](https://img.shields.io/static/v1?style=for-thebadge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
 ![Angular](https://img.shields.io/static/v1?style=for-the-badge&message=Angular&color=DD0031&logo=Angular&logoColor=FFFFFF&label=)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
