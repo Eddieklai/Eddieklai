@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Klai Eddie</h1>
 <h3 align="center">Student in Epitech at Lyon</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eddieklai&label=Profile%20views&color=006d8f&style=flat-square" alt="eddieklai" /> </p>
-
 # 💫 About Me :
 
 - 🌱 I’m currently learning **Go, react, web front end**
@@ -25,7 +23,6 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![GIMP](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
@@ -34,3 +31,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eddieklai&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="eddieklai" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eddieklai&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="eddieklai" /></p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=eddieklai&label=Profile%20views&color=006d8f&style=flat-square" alt="eddieklai" /> </p>
