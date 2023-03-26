@@ -3,7 +3,7 @@
 
 # 💫 About Me :
 
-- 🌱 I’m currently learning **Go, react, web front end**
+- 🌱 I’m currently learning **react, tailwind and web front end**
 - 📫 How to reach me **eddie.klai@epitech.eu**
 
 ## 🌐 Socials :
